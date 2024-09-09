@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "backend_js": "file:",
+    "express": "^4.19.2",
+    "react-router-dom": "^6.26.1"
   }
 }
